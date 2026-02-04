@@ -1,13 +1,13 @@
 # Heart Disease Risk Prediction using Logistic Regression
 
-## 📌 Exercise Summary
+## Exercise Summary
 This project implements **logistic regression from scratch** to predict the presence of heart disease using clinical patient data. The objective is to demonstrate a full machine learning workflow: exploratory data analysis (EDA), model implementation without machine learning libraries, visualization of decision boundaries, regularization analysis, and a simulated cloud deployment using **Amazon SageMaker**.
 
 The project is part of a **Machine Learning Bootcamp within a Digital Transformation and Enterprise Architecture course**, emphasizing both theoretical understanding and real-world deployment considerations.
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 - **Name:** Heart Disease Dataset  
 - **Source:** Kaggle – NeuroCipher  
 - **Link:** https://www.kaggle.com/datasets/neurocipher/heartdisease  
@@ -28,7 +28,7 @@ The dataset was downloaded manually from Kaggle and loaded as a CSV file into th
 
 ---
 
-## 🧪 Methodology
+## Methodology
 
 ### 1. Exploratory Data Analysis (EDA)
 - Summary statistics and data inspection
@@ -76,3 +76,4 @@ J = J_{logistic} + \frac{\lambda}{2m} ||w||^2
 \]
 
 Tested values of λ:
+
